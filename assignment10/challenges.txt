@@ -1,0 +1,9 @@
+Challenges faced:
+- Identifying correct CSS selectors for dynamic web pages.
+- Handling books with multiple authors.
+- Using XPath to extract OWASP Top 10 vulnerabilities.
+
+Resolutions:
+- Used Chrome Developer Tools to inspect elements and get selectors.
+- Combined multiple authors using join() function.
+- Carefully analyzed page structure to write accurate XPath expressions.

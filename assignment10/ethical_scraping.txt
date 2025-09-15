@@ -1,0 +1,12 @@
+Sections restricted for crawling:
+- /wiki/Special:*
+- /wiki/User:*
+- /wiki/Talk:*
+
+Rules for certain user agents:
+- Some rules apply to specific bots, like Googlebot.
+
+Purpose:
+Robots.txt files guide web crawlers on which pages they can access.
+They promote ethical scraping by preventing server overload
+and by protecting private or sensitive areas of websites.
