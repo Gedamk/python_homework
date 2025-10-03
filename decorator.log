@@ -1,0 +1,6 @@
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: accept_args positional parameters: (10, 20, 30) keyword parameters: none return: True
+function: accept_kwargs positional parameters: none keyword parameters: {'name': 'Gedan', 'age': 25} return: <function logger_decorator at 0x000002006A33D300>
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: accept_args positional parameters: (10, 20, 30) keyword parameters: none return: True
+function: accept_kwargs positional parameters: none keyword parameters: {'name': 'Gedan', 'age': 25} return: <function logger_decorator at 0x0000025553E3D300>

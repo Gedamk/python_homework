@@ -1,0 +1,3 @@
+Static visualizations are fixed and useful for printed reports, but interactive visualizations let users explore patterns and details.
+Dashboards are powerful because they combine multiple charts in one place and allow real-time exploration.
+Plotly and Dash improve professional data communication by making visuals more engaging and interactive, helping teams make faster decisions.
